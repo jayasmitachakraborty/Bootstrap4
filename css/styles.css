@@ -20,7 +20,7 @@
   padding: 70px 30px 70px 30px;
   margin: 0px auto;
   background: #9575CD;
-  color: #floralwhite;
+  color: floralwhite;
 }
 
 .address{
@@ -40,4 +40,23 @@
 
 .col-content{
   padding: 20px 0px 0px 0px;
+}
+
+.radio-input{
+  margin: 15px 15px 15px 0px;
+}
+
+.text-input{
+  margin: 15px auto;
+}
+
+.color-header{
+  color: floralwhite;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
